@@ -478,14 +478,14 @@ reef
 reservoir
 river
 rivulet
-the sea
-the shallows
+sea
+shallows
 shoal
-the shore
+shore
 source
 spring
 stream
-the surf
+surf
 swamp
 tributary
 albariño
