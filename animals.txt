@@ -1,0 +1,179 @@
+badger
+barracuda
+bear
+boa
+cheetah
+chimpanzee
+civet
+cobra
+cougar
+coyote
+crocodile
+dingo
+eagle
+eel
+fossa
+fox
+human
+jackal
+jaguar
+komodo
+leopard
+lion
+lynx
+mamba
+mandrill
+marlin
+monitor lizard
+snake
+axelotol
+ocelot
+osprey
+owl
+petrel
+python
+ray
+salamander
+serval
+shark
+skua
+tiger
+viper
+wolf
+wolverine
+albatross
+avocet
+budgie
+canary
+chick
+chickadee
+chicken
+cockatiel
+cockatoo
+coot
+covey
+crow
+cuckoo
+dove
+duck
+eagle
+falcon
+finch
+flamingo
+fowl
+goldfinch
+goose
+grouse
+hawk
+heron
+jackdaw
+jay
+kestrel
+lark
+loon
+macaw
+magpie
+martin
+osprey
+ostrich
+owl
+parakeet
+parrot
+pelican
+penguin
+pigeon
+puffin
+quail
+quetzal
+raven
+razorbill
+rook
+shrike
+skylark
+snipe
+sparrow
+starling
+stork
+swallow
+swift
+tanager
+thrush
+toucan
+turkey
+vulture
+warbler
+angora cat
+balinese cat
+bengal cat
+birman cat
+bobtail cat
+bombay cat
+burmese cat
+calico cat
+ginger cat
+himalayan cat
+javanese cat
+korat
+longhair cat
+persian cat
+siamese cat
+siberian cat
+tabby cat
+tom cat
+borzoi
+boxer dog
+collie dog
+corgie
+dachshund
+dingo
+feist
+harrier dog
+hound
+huskyd dog
+maltese
+pinscher
+poodle
+pug
+retriever
+rottweiler
+schnauser
+setter
+spaniel
+spitz
+terrier
+westie
+whippet
+amberjack
+anchovy
+angler
+ayu
+barbel
+barracuda
+bass
+betta
+blowfish
+bocaccio
+burbot
+carp
+cod
+eel
+flounder
+grouper
+haddock
+halibut
+herring
+mackerel
+marlin
+mullet
+perch
+pollock
+salmon
+sardine
+scallop
+shark
+snapper
+sole
+tilapia
+trout
+tuna
+fish
