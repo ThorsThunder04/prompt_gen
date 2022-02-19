@@ -3,9 +3,6 @@ sunray
 godray
 sunrays shine upon it
 arcade
-arch
-archway
-balcony
 baluster
 balustrade
 belvedere
@@ -17,11 +14,13 @@ courtyard
 cupola
 facade
 frieze
-gallerie
 parapet
+arch
 patio
 pavilion
 pediment
+archway
+balcony
 pergola
 pilaster
 portico
@@ -382,7 +381,6 @@ corolla
 fern
 flora
 flower
-forest
 fruit
 grain
 grass
@@ -438,9 +436,9 @@ bayou
 bend
 bog
 brook
-canal
 channel
 coral
+canal
 cove
 creek
 dam
@@ -456,35 +454,17 @@ gully
 harbor
 iceberg
 inlet
-island
 islet
 kettle
-lagoon
-lake
 loch
 marsh
 monster
 moat
 uth
 neck
-oasis
-ocean
-pond
-pool
-port
 puddle
-rapids
-reef
-reservoir
-river
-rivulet
-sea
-shallows
-shoal
-shore
 source
 spring
-stream
 surf
 swamp
 tributary
@@ -545,3 +525,41 @@ spruce tree
 sycamore tree
 teak tree
 walnut tree
+oasis
+pearnuclear explosion
+atomic explosion
+atomic bomb
+nuclear bomb
+atom bomb
+explosion
+explosions
+angel of death
+angel of fire
+angel of wind
+angel of ice
+angel of life
+archangel
+winds of madness
+cityscape
+rainbow
+gateway
+summer night
+fireflies
+monolith
+landscape
+ophanim
+vision
+album cover
+rock album cover
+death metal album cover
+metal album cover
+punk album cover
+pop album cover
+machinery
+machine
+clockwork
+clock
+clocktower
+scrapbook
+crystal
+crystalline
