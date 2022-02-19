@@ -27,8 +27,6 @@ massive
 giant
 tall
 small
-thin
-narrow
 round
 layerd
 dusty
@@ -86,7 +84,7 @@ autumn
 spring
 blooming
 boring
-exciting
+excited
 noisy
 grainy
 transparent
@@ -97,3 +95,12 @@ falling
 flying
 floating
 hovering
+intricate
+eldritch
+abyssal
+martian
+uncanny
+radiating
+looming
+creepy
+powerful
