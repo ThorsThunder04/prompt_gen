@@ -1,0 +1,38 @@
+ocean
+pond
+pool
+port
+reef
+reservoir
+river
+rivulet
+sea
+shallows
+shoal
+shore
+stream
+rapids
+lagoon
+lake
+island
+forest
+gallerie
+mountain range
+Antarctica
+valley
+hell
+heaven
+space
+universe
+galaxy
+city
+town
+village
+building
+continent
+country
+land
+New York
+Paris
+London
+witch's garden
