@@ -6,7 +6,7 @@ Vincent Di Fate
 Ilya Kuvshinov
 Claude Monet
 Leonardo da Vinci
-Salvador Dali
+Salvador Dalí
 Bob Ross
 H.P. Lovecraft
 Rembrandt
@@ -65,3 +65,85 @@ Odilon Redon
 J.M.W. Turner
 Albert Bierstadt
 Beksinski
+Arnold Böcklin
+Judson Huss
+George Inness
+Anton Pieck
+Zdzisław Beksiński
+Esao Andrews
+Wojciech Siudmak
+Bruce Pennington
+Stanisław Szukalski
+Victo Ngai
+H. R. Giger
+Robert Rauschenberg
+Johfra Bosschart
+Tom Thomson
+Beeple
+Ted Nasmith
+Juan Giménez
+Monsù Desiderio
+François de Nomé
+Didier Barra
+Jean Giraud
+Mœbius
+Moebius
+Andy Warhol
+Lawren Harris
+Thomas Kinkade
+Jeff Koons
+Jean-Michel Basquiat
+Karol Bak
+Moosa Al Halyan
+Zdzisław Beksiński
+Zdzislaw Beksinski
+Banksy
+Sandro Botticelli
+Chesley Bonestell
+Paul Cézanne
+Ernst Max
+Paul Gauguin
+Brothers Hildebrandt
+Guido Borelli da Caluso
+De Es Schwertzberger
+Arthur Skizhali-Weiss
+Mike Winkelmann
+Pieter Bruegel the Elder
+Arik Brauer
+Camille-Pierre Pambu Bodo
+Bob Ringwood
+Simon Bisley
+Richard Dadd
+Filippino Lippi
+Alejandro Jodorowsky
+Ernst Fuchs
+Brian Froud
+Wendy Froud
+Jarosław Jaśnikowski
+Henry Fuseli
+Walt Disney
+Rob Gonsalves
+Alberto Giacometti
+Arshile Gorky
+Jane Graverol
+George Lucas
+Warwick Goble
+Benoit B. Mandelbrot
+Jakub Rozalski
+Peter Gric
+H. P. Lovecraft
+Jakub Różalski
+Jakub Rozalski
+Artemisia Gentileschi
+Henriette Grindat
+Eleanor Vere Boyle
+Valentine Hugo
+William Hogarth
+Matthias Grünewald
+Sydney Prior Hall
+Keith Haring
+Martin Johnson Heade
+Jeff Easley
+Joe Jusko
+Maria Sibylla Merian
+Kati Horna
