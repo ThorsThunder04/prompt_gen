@@ -1,7 +1,7 @@
 portrait
 sunray
 godray
-sunrays shine upon it
+sunray
 arcade
 baluster
 balustrade
