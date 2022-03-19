@@ -91,7 +91,6 @@ transparent
 reflective
 deflective
 refracting
-falling
 flying
 floating
 hovering
