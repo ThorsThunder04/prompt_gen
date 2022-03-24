@@ -558,3 +558,15 @@ clocktower
 scrapbook
 crystal
 crystalline
+feather
+beads and yarn
+liquid metal
+glass
+cardboard
+mist
+paperclips
+rubber
+plastic
+wire
+trash
+woodcut
