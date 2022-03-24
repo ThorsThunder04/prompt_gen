@@ -22,3 +22,6 @@ sphere
 square
 triangle
 web
+flower
+crystal
+diamond
