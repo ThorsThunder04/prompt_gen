@@ -1,5 +1,5 @@
 synthwave
-psychedlic
+psychedelic
 wavy
 holographic
 iridescent
@@ -33,7 +33,8 @@ dusty
 vintage
 victorian
 ancient
-calssical
+classical
+colossal
 japanese
 russian
 english
