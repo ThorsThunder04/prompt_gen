@@ -1,5 +1,4 @@
 badger
-barracuda
 bear
 boa
 cheetah
@@ -9,9 +8,6 @@ cobra
 cougar
 coyote
 crocodile
-dingo
-eagle
-eel
 fossa
 fox
 human
@@ -23,19 +19,15 @@ lion
 lynx
 mamba
 mandrill
-marlin
 monitor lizard
 snake
 axelotol
 ocelot
-osprey
-owl
 petrel
 python
 ray
 salamander
 serval
-shark
 skua
 tiger
 viper
