@@ -1,54 +1,28 @@
-Alizarin
-Amaranth
 Amber
-Amethyst
-Apricot
-Aqua
 Aquamarine
-Asparagus
-Auburn
-Azure
 Beige
-Bistre
 Black
 Blue
-Blue Green
-Blue Violet
+Blue
+Blue
 Bondi Blue
+Teal blue
+Teal
 Brass
 Bronze
 Brown
-Buff
 Burgundy
 Burnt Orange
 Burnt Sienna
 Burnt Umber
 Camouflage Green
 Caput Mortuum
-Cardinal
-Carmine
-Carrot orange
 Celadon
-Cerise
-Cerulean
-Champagne
-Charcoal
 Chartreuse
-Cherry Blossom Pink
-Chestnut
-Chocolate
-Cinnabar
-Cinnamon
-Cobalt
 Copper
-Coral
-Corn
-Cornflower
 Cream
 Crimson
 Cyan
-Dandelion
-Denim
 Ecru
 Emerald
 Falu red
@@ -64,18 +38,12 @@ Goldenrod
 Green
 Gray
 Han Purple
-Harlequin
-Heliotrope
-Hollywood Cerise
 Indigo
 Ivory
 Jade
 Kelly green
 Khaki
-Lavender
 Lawn green
-Lemon
-Lemon chiffon
 Lilac
 Lime
 Lime green
@@ -89,22 +57,11 @@ Midnight Blue
 Mint green
 Misty rose
 Moss green
-Mustard
-Myrtle
-Navajo white
+Mustard yellow
 Navy Blue
-Ochre
-Office green
-Olive
-Olivine
 Orange
-Papaya whip
-Peach
-Pear
 Periwinkle
 Persimmon
-Pine Green
-Pink
 Platinum
 Plum
 Powder blue
@@ -129,38 +86,84 @@ Saffron
 Salmon
 Sandy brown
 Sangria
-Sapphire
 Scarlet
-School bus yellow
-Sea Green
-Seashell
 Sepia
-Shamrock green
-Shocking Pink
 Silver
-Sky Blue
 Slate grey
-Smalt
 Spring bud
 Spring green
 Steel blue
 Tan
-Tangerine
+Pink
 Taupe
-Teal
 Tawny
-Terra cotta
-Thistle
-Titanium White
 Turquoise
-Tyrian purple
-Ultramarine
-Van Dyke Brown
-Vermilion
 Violet
-Viridian
 White
-Wisteria
-Xanthic
 Yellow
-Zucchini
+Navajo white
+Navajo
+Navajo red
+Navajo green
+navy blue
+ochre
+office green
+olive
+olivine
+pale
+pale blue
+pale green
+pale indigo
+pale orange
+pale pink
+pale red
+pale violet
+pale yellow
+peach
+pear
+periwinkle
+persimmon
+pine green
+pitch black
+platinum
+plum
+powder blue
+Prussian blue
+psychedelic purple
+razzmatazz
+robin egg blue
+royal blue
+royal purple
+russet
+safety orange
+saffron
+salmon
+sandy brown
+sangria
+school bus yellow
+sea green
+seashell
+sepia
+shamrock green
+sky blue
+slate grey
+smalt
+spring bud
+spring green
+steel blue
+tan
+tangerine
+tawny
+terra cotta
+thistle
+titanium white
+turquoise
+tyrian purple
+van Dyke brown
+vermillion
+wisteria
+xanthic
+yosegi
+wisteria
+xanthic
+yosegi
