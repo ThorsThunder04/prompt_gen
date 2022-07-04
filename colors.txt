@@ -3,11 +3,7 @@ Aquamarine
 Beige
 Black
 Blue
-Blue
-Blue
 Bondi Blue
-Teal blue
-Teal
 Brass
 Bronze
 Brown
@@ -35,8 +31,8 @@ Fuchsia
 Gamboge
 Gold
 Goldenrod
-Green
 Gray
+Green
 Han Purple
 Indigo
 Ivory
@@ -58,16 +54,21 @@ Mint green
 Misty rose
 Moss green
 Mustard yellow
+Navajo
+Navajo green
+Navajo red
+Navajo white
 Navy Blue
 Orange
 Periwinkle
 Persimmon
+Pink
 Platinum
 Plum
 Powder blue
-Puce
 Prussian blue
 Psychedelic purple
+Puce
 Pumpkin
 Purple
 Quartz Gray
@@ -94,17 +95,14 @@ Spring bud
 Spring green
 Steel blue
 Tan
-Pink
 Taupe
 Tawny
+Teal
+Teal blue
 Turquoise
 Violet
 White
 Yellow
-Navajo white
-Navajo
-Navajo red
-Navajo green
 navy blue
 ochre
 office green
@@ -128,7 +126,6 @@ pitch black
 platinum
 plum
 powder blue
-Prussian blue
 psychedelic purple
 razzmatazz
 robin egg blue
@@ -161,9 +158,6 @@ turquoise
 tyrian purple
 van Dyke brown
 vermillion
-wisteria
-xanthic
-yosegi
 wisteria
 xanthic
 yosegi
