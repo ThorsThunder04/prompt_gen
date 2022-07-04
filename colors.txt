@@ -1,113 +1,226 @@
-Amber
-Aquamarine
-Beige
-Black
-Blue
-Bondi Blue
-Brass
-Bronze
-Brown
-Burgundy
-Burnt Orange
-Burnt Sienna
-Burnt Umber
-Camouflage Green
-Caput Mortuum
-Celadon
-Chartreuse
-Copper
-Cream
-Crimson
-Cyan
-Ecru
-Emerald
-Falu red
-Fern green
-Firebrick
-Flax
-Forestgreen
-French Rose
-Fuchsia
-Gamboge
-Gold
-Goldenrod
-Gray
-Green
-Han Purple
-Indigo
-Ivory
-Jade
-Kelly green
-Khaki
-Lawn green
-Lilac
-Lime
-Lime green
-Linen
-Magenta
-Magnolia
-Malachite
-Maroon
-Mauve
-Midnight Blue
-Mint green
-Misty rose
-Moss green
-Mustard yellow
-Navajo
-Navajo green
-Navajo red
-Navajo white
-Navy Blue
-Orange
-Periwinkle
-Persimmon
-Pink
-Platinum
-Plum
-Powder blue
-Prussian blue
-Psychedelic purple
-Puce
-Pumpkin
-Purple
-Quartz Gray
-Raw umber
-Razzmatazz
-Red
-Robin egg blue
-Rose
-Royal blue
-Royal purple
-Ruby
-Russet
-Rust
-Safety orange
-Saffron
-Salmon
-Sandy brown
-Sangria
-Scarlet
-Sepia
-Silver
-Slate grey
-Spring bud
-Spring green
-Steel blue
-Tan
-Taupe
-Tawny
-Teal
-Teal blue
-Turquoise
-Violet
-White
-Yellow
+alabaster
+amaranth
+amber
+amethyst
+anaglyph effect
+anaglyph filter
+apricot
+aqua
+aquamarine
+asparagus
+auburn
+aureolin
+azure
+baker-miller pink
+beige
+bismuth
+black
+blood orange
+blue
+blue-green
+blue-violet
+bondi blue
+brass
+brick red
+bright blue
+bright green
+bright orange
+bright pink
+bright purple
+bright yellow
+bronze
+brown
+burgundy
+burnt orange
+burnt sienna
+burnt umber
+camouflage
+camouflage green
+caput mortuum
+cardinal
+carmine
+carrot orange
+celadon
+cerise
+cerulean
+champagne
+charcoal
+chartreuse
+cheetah print
+cherry blossom pink
+chestnut
+chocolate
+chromatic aberration
+chrome
+cinnabar
+cinnamon
+cobalt
+color blindness
+cool blue
+cool green
+cool indigo
+cool orange
+cool pink
+cool red
+cool violet
+cool yellow
+copper
+copper patina
+copper verdigris
+copper, patina
+copper, verdigris
+coral
+corn
+cornflower
+cow print
+cream
+crimson
+cubic zirconia
+cyan
+cyanotype
+cyber noir
+dandelion
+dark black
+dark blue
+dark green
+dark indigo
+dark orange
+dark pastel
+dark pink
+dark rainbow
+dark red
+dark violet
+dark white
+dark yellow
+dayglo
+dayglo blue
+dayglo green
+dayglo orange
+dayglo pink
+dayglo purple
+dayglo yellow
+deep blue
+deep green
+deep indigo
+deep orange
+deep pink
+deep purple
+deep red
+deep yellow
+denim
+diamond
+ecru
+electric blue
+electric color
+electric green
+electric indigo
+electric orange
+electric pink
+electric purple
+electric red
+electric yellow
+emerald
+falu red
+fern green
+fire
+firebrick
+flat color
+flax
+fluorescent
+fluorescent blue
+fluorescent green
+fluorescent orange
+fluorescent pink
+fluorescent purple
+fluorescent yellow
+forest green
+forestgreen
+french rose
+fuchsia
+full of color
+gamboge
+glittering
+gold
+golden
+golden hour
+goldenrod
+graphite
+gray
+green
+grey
+han blue
+han purple
+heliotrope
+hollywood cerise
+hot pink
+hunter green
+icy
+incandescent
+indigo
+infrared
+inverted colors
+iridescent
+iron
+ivory
+jade
+jet black
+kelly green
+khaki
+lapis lazuli
+lavender
+lawn green
+leather
+lemon
+lemon chiffon
+leopard print
+light blue
+light green
+light indigo
+light orange
+light pink
+light red
+light violet
+light yellow
+lilac
+lime
+lime green
+linen
+magenta
+magnolia
+malachite
+maroon
+mauve
+midnight blue
+mint
+mint green
+misty rose
+moonstone
+moss green
+mustard
+mustard yellow
+nacreous
+navajo
+navajo green
+navajo red
+navajo white
+navy
 navy blue
+neon
+neon blue
+neon green
+neon orange
+neon pink
+neon purple
+neon rainbow
+neon yellow
+obsidian
 ochre
 office green
 olive
 olivine
+onyx
+opalescent
+orange
 pale
 pale blue
 pale green
@@ -117,47 +230,107 @@ pale pink
 pale red
 pale violet
 pale yellow
+pastel
+pastel black
+pastel blue
+pastel dark
+pastel green
+pastel indigo
+pastel orange
+pastel pink
+pastel rainbow
+pastel red
+pastel violet
+pastel white
+pastel yellow
+patina
 peach
 pear
+pearlescent
 periwinkle
 persimmon
+pewter
 pine green
+pink
 pitch black
 platinum
 plum
 powder blue
+prussian blue
 psychedelic purple
+puce
+pumpkin
+pumpkin orange
+purple
+quartz gray
+rainbow
+raw umber
 razzmatazz
+red
 robin egg blue
+rose
+rose gold
+rose quartz
 royal blue
 royal purple
+ruby
 russet
+rust
 safety orange
 saffron
 salmon
 sandy brown
 sangria
+sapphire
+scarlet
 school bus yellow
 sea green
 seashell
 sepia
 shamrock green
+shimmering
+silver
 sky blue
 slate grey
 smalt
+smoke
+snakeskin
 spring bud
 spring green
+steel
 steel blue
 tan
 tangerine
+taupe
 tawny
+teal
+teal blue
 terra cotta
 thistle
+tiger print
 titanium white
 turquoise
 tyrian purple
-van Dyke brown
+ultramarine
+ultraviolet
+umber
+van dyke brown
+vantablack
+verdigris
 vermillion
+violet
+viridian
+warm blue
+warm green
+warm indigo
+warm orange
+warm pink
+warm red
+warm violet
+warm yellow
+white
 wisteria
 xanthic
+yellow
 yosegi
+zebra print
