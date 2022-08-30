@@ -1,9 +1,9 @@
 [
   {
-      "prompt" : "a {adjective} {thing}, {style}",
+      "prompt" : "a {adjective} {thing}, {style}"
   },
   {
-      "prompt" : "a {color} figure in {location}",
+      "prompt" : "a {color} figure in {location}"
   },
   {
       "prompt": "a {adjective} {thing}, by {artist}, {style}",
