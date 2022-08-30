@@ -1,6 +1,4 @@
-# this is just to make the code cleaner, so it's all centered here.
-
-prompt_templates = [
+[
   {
       "prompt" : "a {adjective} {thing}, {style}",
   },
